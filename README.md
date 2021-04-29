@@ -49,7 +49,6 @@ mysql: [Warning] Using a password on the command line interface can be insecure.
 
 ### APIアクセス
 
-
 ```
 ### GET
 $ curl --location --request GET 'localhost:1323/users'
@@ -63,13 +62,6 @@ $ curl --location --request GET 'localhost:1323/users/1'
 
 {"id":1,"name":"Yamada","email":"yamada@example.com"}
 ```
-
-```
-$ curl --location --request GET 'localhost:1323/users/1'
-
-{"id":1,"name":"Yamada","email":"yamada@example.com"}
-```
-
 
 ```
 ### PUT
@@ -94,7 +86,6 @@ $ curl --location --request POST 'localhost:1323/users' \
 
 {"id":3,"name":"Suzuki","email":"suzuki@example.com"}
 ```
-
 
 ```
 ### DELETE
