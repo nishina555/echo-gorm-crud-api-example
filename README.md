@@ -3,7 +3,7 @@
 
 ## 技術スタック
 - フレームワーク: [Echo](https://echo.labstack.com/)
-- ORM: [GORM](https://gorm.io/ja_JP/)
+- O/Rマッパ: [GORM](https://gorm.io/ja_JP/)
 - ホットリロード機能: [Air](https://github.com/cosmtrek/air)
 - データベース: MySQL
 - 環境変数管理: [godotenv](https://github.com/joho/godotenv)
