@@ -5,8 +5,6 @@ import (
 	"net/http"
 
 	"github.com/labstack/echo/v4"
-
-	_ "github.com/go-sql-driver/mysql"
 )
 
 type User struct {
