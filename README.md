@@ -1,5 +1,6 @@
-# echo-gorm-crud-api-example
-- Go言語で実装したCRUD APIのサンプルです。
+Go言語で実装したCRUD APIのサンプルです。
+実装の詳細は[【Go言語】EchoとGORMでREST API（CRUD）を実装する](https://nishinatoshiharu.com/restapi-echo-gorm/)をご覧になってください。
+
 
 ## 技術スタック
 - フレームワーク: [Echo](https://echo.labstack.com/)
